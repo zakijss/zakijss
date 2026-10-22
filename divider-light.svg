@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 28" width="900" height="28" role="img" aria-label="">
+<defs>
+  <linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#d1d9e0" stop-opacity="0"/><stop offset="1" stop-color="#d1d9e0"/></linearGradient>
+  <linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#d1d9e0"/><stop offset="1" stop-color="#d1d9e0" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="60" y="13.25" width="330" height="1.5" fill="url(#l)"/>
+<rect x="510" y="13.25" width="330" height="1.5" fill="url(#r)"/>
+<polygon points="415.00,5.00 417.14,8.84 421.36,7.64 420.16,11.86 424.00,14.00 420.16,16.14 421.36,20.36 417.14,19.16 415.00,23.00 412.86,19.16 408.64,20.36 409.84,16.14 406.00,14.00 409.84,11.86 408.64,7.64 412.86,8.84" fill="none" stroke="#c62828" stroke-width="2.2" stroke-linejoin="round"/><polygon points="450.00,5.00 452.14,8.84 456.36,7.64 455.16,11.86 459.00,14.00 455.16,16.14 456.36,20.36 452.14,19.16 450.00,23.00 447.86,19.16 443.64,20.36 444.84,16.14 441.00,14.00 444.84,11.86 443.64,7.64 447.86,8.84" fill="none" stroke="#1f2328" stroke-width="2.2" stroke-linejoin="round"/><polygon points="485.00,5.00 487.14,8.84 491.36,7.64 490.16,11.86 494.00,14.00 490.16,16.14 491.36,20.36 487.14,19.16 485.00,23.00 482.86,19.16 478.64,20.36 479.84,16.14 476.00,14.00 479.84,11.86 478.64,7.64 482.86,8.84" fill="none" stroke="#2e7d32" stroke-width="2.2" stroke-linejoin="round"/>
+</svg>
