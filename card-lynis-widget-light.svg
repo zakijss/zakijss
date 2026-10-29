@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 124" width="280" height="124" role="img" aria-label="lynis-widget: Lynis hardening scores as a card for Glance and Dynacat">
+<style>
+  .n { font: 700 17px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #1f2328; letter-spacing: 0.5px; }
+  .d { font: 12.5px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #59636e; }
+</style>
+<rect x="1" y="1" width="278" height="122" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="1" y="22" width="3" height="26" fill="#1a7f37"/>
+<text class="n" x="20" y="41">lynis-widget</text>
+<text class="d" x="20" y="68">Lynis hardening scores as a</text>
+<text class="d" x="20" y="86">card for Glance and Dynacat</text>
+<circle cx="25" cy="104" r="5" fill="#3572A5"/>
+<text class="d" x="36" y="108.5">Python</text>
+</svg>

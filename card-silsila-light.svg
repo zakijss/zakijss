@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 124" width="280" height="124" role="img" aria-label="Silsila: Raw DNA files explored in a browser tab, never uploaded">
+<style>
+  .n { font: 700 17px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #1f2328; letter-spacing: 0.5px; }
+  .d { font: 12.5px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #59636e; }
+</style>
+<rect x="1" y="1" width="278" height="122" rx="10" fill="#f6f8fa" stroke="#d1d9e0" stroke-width="1.5"/>
+<rect x="1" y="22" width="3" height="26" fill="#1a7f37"/>
+<text class="n" x="20" y="41">Silsila</text>
+<text class="d" x="20" y="68">Raw DNA files explored in a</text>
+<text class="d" x="20" y="86">browser tab, never uploaded</text>
+<circle cx="25" cy="104" r="5" fill="#f1e05a"/>
+<text class="d" x="36" y="108.5">JavaScript</text>
+</svg>

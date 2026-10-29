@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 124" width="280" height="124" role="img" aria-label="Vantage: Ops console for a home server, with a globe of public feeds">
+<style>
+  .n { font: 700 17px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #e6edf3; letter-spacing: 0.5px; }
+  .d { font: 12.5px ui-monospace, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace; fill: #9198a1; }
+</style>
+<rect x="1" y="1" width="278" height="122" rx="10" fill="#151b23" stroke="#3d444d" stroke-width="1.5"/>
+<rect x="1" y="22" width="3" height="26" fill="#3fb950"/>
+<text class="n" x="20" y="41">Vantage</text>
+<text class="d" x="20" y="68">Ops console for a home server,</text>
+<text class="d" x="20" y="86">with a globe of public feeds</text>
+<circle cx="25" cy="104" r="5" fill="#3572A5"/>
+<text class="d" x="36" y="108.5">Python</text>
+</svg>
