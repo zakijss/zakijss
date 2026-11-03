@@ -25,6 +25,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="card-lynis-widget-dark.svg">
     <img alt="lynis-widget: Lynis hardening scores as a card for Glance and Dynacat" src="card-lynis-widget-light.svg">
   </picture></a>
+  <a href="https://github.com/zakijss/MiniDeck"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="card-minideck-dark.svg">
+    <img alt="MiniDeck: apps for the Miyoo Mini Plus: Tailscale, music, server stats" src="card-minideck-light.svg">
+  </picture></a>
 </p>
 
 ### Activity
