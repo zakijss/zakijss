@@ -27,7 +27,15 @@
   </picture></a>
   <a href="https://github.com/zakijss/MiniDeck"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="card-minideck-dark.svg">
-    <img alt="MiniDeck: apps for the Miyoo Mini Plus: Tailscale, music, server stats" src="card-minideck-light.svg">
+    <img alt="MiniDeck: apps for the Miyoo Mini Plus: Tailscale, Jellyfin, music, 2FA" src="card-minideck-light.svg">
+  </picture></a>
+  <a href="https://github.com/zakijss/SuperGameBoy"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="card-supergameboy-dark.svg">
+    <img alt="SuperGameBoy: Onion OS theme with a logo wall that lights up in waves" src="card-supergameboy-light.svg">
+  </picture></a>
+  <a href="https://github.com/zakijss/EndlessSky"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="card-endlesssky-dark.svg">
+    <img alt="EndlessSky: the space trading game, ported to the Miyoo Mini Plus" src="card-endlesssky-light.svg">
   </picture></a>
 </p>
 
