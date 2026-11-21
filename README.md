@@ -21,10 +21,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="card-silsila-dark.svg">
     <img alt="Silsila: raw DNA files explored in a browser tab, never uploaded" src="card-silsila-light.svg">
   </picture></a>
-  <a href="https://github.com/zakijss/lynis-widget"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="card-lynis-widget-dark.svg">
-    <img alt="lynis-widget: Lynis hardening scores as a card for Glance and Dynacat" src="card-lynis-widget-light.svg">
-  </picture></a>
   <a href="https://github.com/zakijss/MiniDeck"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="card-minideck-dark.svg">
     <img alt="MiniDeck: apps for the Miyoo Mini Plus: Tailscale, Jellyfin, music, 2FA" src="card-minideck-light.svg">
@@ -36,6 +32,10 @@
   <a href="https://github.com/zakijss/EndlessSky"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="card-endlesssky-dark.svg">
     <img alt="EndlessSky: the space trading game, ported to the Miyoo Mini Plus" src="card-endlesssky-light.svg">
+  </picture></a>
+  <a href="https://github.com/zakijss/Armiger"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="card-armiger-dark.svg">
+    <img alt="Armiger: an open-world RPG grown from the coat of arms you design" src="card-armiger-light.svg">
   </picture></a>
 </p>
 
